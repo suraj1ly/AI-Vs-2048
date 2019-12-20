@@ -1,4 +1,4 @@
-# AI-Vs-2048
+# AI Corse
 AI Course Materials
 
 # Project Details
