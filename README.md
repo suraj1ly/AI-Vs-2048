@@ -1,4 +1,4 @@
-# AI Corse
+# AI Course
 AI Course Materials
 
 # Project Details
